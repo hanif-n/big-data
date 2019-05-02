@@ -14,11 +14,11 @@ Then run "python server.py" on cmd/terminal.
 Recommendations cold be requested via HTTP GET method :
 
 <h3>http://[IP_SERVER]:6136/user-recs-for-thread/[INT]/</h3>
-Request [INT] user recommendations for each thread/reddit_id
+Request [INT] user recommendations for each thread/reddit_id.<br>
 Example :
 <img src=""/>
 
 <h3>http://[IP_SERVER]:6136/thread-recs-for-user/[INT]/</h3>
-Request [INT] thread/reddit_id recommendations for each user
+Request [INT] thread/reddit_id recommendations for each user.<br>
 Example :
 <img src=""/>
