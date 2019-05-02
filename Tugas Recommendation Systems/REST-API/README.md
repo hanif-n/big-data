@@ -16,9 +16,9 @@ Recommendations cold be requested via HTTP GET method :
 <h3>http://[IP_SERVER]:6136/user-recs-for-thread/[INT]/</h3>
 Request [INT] user recommendations for each thread/reddit_id.<br>
 Example :
-<img src=""/>
+<img src="https://github.com/hanif-n/big-data/blob/master/Tugas%20Recommendation%20Systems/REST-API/img/user-recs-for-thread.jpg"/>
 
 <h3>http://[IP_SERVER]:6136/thread-recs-for-user/[INT]/</h3>
 Request [INT] thread/reddit_id recommendations for each user.<br>
 Example :
-<img src=""/>
+<img src="https://github.com/hanif-n/big-data/blob/master/Tugas%20Recommendation%20Systems/REST-API/img/thread-recs-for-user.jpg"/>
