@@ -85,7 +85,7 @@ class RecommendationEngine:
     def get_rec_thread(self, numUsers):
 
         itemRecs = self.model.recommendForAllItems(numUsers)
-        itemRecs = itemRecs.to_json()
         itemRecs = itemRecs.toPandas()
+        itemRecs = itemRecs.to_json()
         
         return itemRecs
