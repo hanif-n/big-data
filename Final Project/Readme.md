@@ -25,7 +25,7 @@
   <li>Run consumer.py</li>
   <li>Run server.py</li>
   <li>Open http://localhost:6136/recommendations/ from browser</li>
-  <li>Fill User ID, amount of recommendations, an model used</li>
+  <li>Fill User ID, amount of recommendations, and model used</li>
   <li>Click 'Get Recommendations'</li>
 </ol>
 
