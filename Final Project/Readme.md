@@ -19,7 +19,7 @@
 <h2>How To Use</h2>
 <ol>
   <li>Run Zookeeper. Tutorial for Zookeeper can be accessed at https://medium.com/@shaaslam/installing-apache-zookeeper-on-windows-45eda303e835</li>
-  <li>Run Kafka. Tutorial for Zookeeper can be accessed at https://medium.com/@shaaslam/installing-apache-kafka-on-windows-495f6f2fd3c8</li>
+  <li>Run Kafka. Tutorial for Kafka can be accessed at https://medium.com/@shaaslam/installing-apache-kafka-on-windows-495f6f2fd3c8</li>
   <li><p>Create a new topic. For configuration, i create 'ratings' topic. Run this code on kafka directory.</p><code>.\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic ratings</code></li>
   <li>Run producer.py</li>
   <li>Run consumer.py</li>
