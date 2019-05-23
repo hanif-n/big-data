@@ -30,3 +30,10 @@
 </ol>
 
 <h2>Implementation</h2>
+
+<ul>
+  <li>Recommendations Form (User ID, amount of recommendations, and model used)
+    <img src="https://github.com/hanif-n/big-data/blob/master/Final%20Project/img/form.png" /></li>
+  <li>Recommendations Result
+    <img src="https://github.com/hanif-n/big-data/blob/master/Final%20Project/img/get.png" /></li>
+</ul>
